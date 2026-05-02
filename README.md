@@ -1,5 +1,4 @@
 # Gym-management-system
-# Gym-management-system
 
 ## 📌 Project Description
 A web-based Gym Management System developed using PHP and MySQL to manage gym members, trainers, fees, and workout plans efficiently.
